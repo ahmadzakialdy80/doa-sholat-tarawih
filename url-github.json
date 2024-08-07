@@ -1,0 +1,27 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"null",
+      "main_ads_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "main_ads_intertitial":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "main_ads_natives":"null",
+      "main_ads_rewards":"null",
+      "backup_ads_natives":"null",
+      "backup_ads_banner":"null",
+      "backup_ads_intertitial":"null",
+      "backup_ads_rewards":"null",
+      "open_app_ads":"null",
+      "interval_intertitial": 3,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ]
+}
